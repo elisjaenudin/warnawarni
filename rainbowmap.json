@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "Relaxing Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow1.zip"
+    },
+    {
+      "name": "Rainbow Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.zip"
+    },
+	{
+      "name": "Fun Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.zip"
+    }
+  ]
+}
