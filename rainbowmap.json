@@ -14,6 +14,21 @@
       "name": "Fun Adventure",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.zip"
+    },
+	{
+      "name": "Flying hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps1.zip"
+    },
+    {
+      "name": "Swing hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps2.zip"
+    },
+	{
+      "name": "Powerful hero skills",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps1.zip"
     }
   ]
 }
