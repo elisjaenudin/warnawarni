@@ -1,19 +1,44 @@
 {
   "maps": [
     {
-      "name": "Relaxing Adventure",
+      "name": "Dandys World",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow1.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow1.zip"
     },
     {
-      "name": "Rainbow Adventure",
+      "name": "Dandys Fun World",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.zip"
     },
 	{
-      "name": "Fun Adventure",
+      "name": "Dandys Adventure",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.zip"
+    },
+	{
+      "name": "Spider Hero",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/spider.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/spider.zip"
+    },
+    {
+      "name": "Squid Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/squid.zip"
+    },
+	{
+      "name": "One Block",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/oneblock.zip"
+    },
+	{
+      "name": "Lucky Block Race",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.zip"
+    },
+    {
+      "name": "The Mimicer Horror",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.zip"
     }
   ]
 }
