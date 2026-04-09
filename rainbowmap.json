@@ -35,10 +35,45 @@
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lucky.zip"
     },
+	{
+      "name": "DreamSMP Parkour",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/dream.zip"
+    },
+    {
+      "name": "ONE BLOCK Lucky Blocks",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/luckys.zip"
+    },
+	{
+      "name": "Parkour Rooms",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/paklour.zip"
+    },
+	{
+      "name": "The Floor is LAVA",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/lavazh.zip"
+    },
     {
       "name": "The Mimicer Horror",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/mimic.zip"
+    },
+    {
+      "name": "Titan Toilet",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/titanlot.jpg",
+      "file": "https://github.com/elisjaenudin/warnawarni/releases/download/v1/titanlot.zip"
+    },
+	{
+      "name": "Italian Brainrot",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/itabrain.zip"
+    },
+	{
+      "name": "Spunky Magic Beats",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/beatsbos.zip"
     }
   ]
 }
